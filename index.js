@@ -31,7 +31,7 @@ function packSphere(opt = {}) {
   function pack() {
     // try to pack
     let shape;
-    for (let i = 0; i < attempts; i++) {
+    for (let i = 0; i < packAttempts; i++) {
       shape = place();
       if (shape) break;
     }
