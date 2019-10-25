@@ -1,6 +1,6 @@
 {
   "name": "pack-spheres",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Brute force circle/sphere packing in 2D or 3D",
   "main": "index.js",
   "license": "MIT",
