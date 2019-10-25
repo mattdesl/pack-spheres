@@ -36,6 +36,8 @@ Returns an array of objects with normalized values between `-1.0` and `1.0`, but
 
 If you specify `{ dimensions: 2 }`, the `position` will only contain `[ x, y ]`.
 
+The algorithm is roughly based on Tim Holman's [Circle Packing tutorial](https://generativeartistry.com/tutorials/circle-packing/), thanks Tim!
+
 ## Install
 
 Use [npm](https://npmjs.com/) to install.
@@ -99,6 +101,10 @@ const spheres = pack({
   minRadius: () => Random.range(0, 0.5)
 });
 ```
+
+## Credits
+
+Thanks to Tim Holman for his [Circle Packing tutorial](https://generativeartistry.com/tutorials/circle-packing/) which this code is roughly based on.
 
 ## License
 
