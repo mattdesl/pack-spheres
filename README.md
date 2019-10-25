@@ -2,9 +2,7 @@
 
 Brute force circle/sphere packing in 2D or 3D.
 
-<img src="demos/2d.png" width="20%" />
-<img src="demos/2d-circle.png" width="20%" />
-<img src="demos/3d.png" width="20%" />
+<img src="demos/2d.png" width="20%" /><img src="demos/2d-circle.png" width="20%" /><img src="demos/3d.png" width="20%" />
 
 See [./demos](./demos) for examples.
 
