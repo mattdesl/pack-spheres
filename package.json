@@ -14,7 +14,7 @@
     "canvas-sketch": "^0.7.1",
     "canvas-sketch-cli": "^1.11.6",
     "canvas-sketch-util": "^1.10.0",
-    "three": "^0.109.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "demo0": "canvas-sketch demos/circles-in-square.js --open",
